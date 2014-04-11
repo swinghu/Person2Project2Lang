@@ -1,0 +1,84 @@
+ndox,{Java},pinakmengle,{Java},o1o
+benow,{Assembly,C},ensonic,{C,C++,Java},o1o
+ensonic,{C,C++,Java},thomasvs,{Assembly,C},o1o
+ensonic,{C,C++,Java},theuraeus,{Assembly,C},o1o
+ensonic,{C,C++,Java},thaytan,{Assembly,C},o1o
+ensonic,{C,C++,Java},teuf,{Assembly,C},o1o
+ensonic,{C,C++,Java},teebaum,{C++,Assembly,C},o1o
+ensonic,{C,C++,Java},sxpert,{Assembly,C},o1o
+ensonic,{C,C++,Java},lmjohns3,{Assembly,C},o1o
+stflourd,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+avix,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ndox,{Java},valery_b,{Java},o1o
+csterwa,{Java},ndox,{Java},o1o
+sandeep_giri,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ndox,{Java},vsonerud,{Java},o1o
+dschleef,{Assembly,C},ensonic,{C,C++,Java},o1o
+ensonic,{C,C++,Java},wingo,{Assembly,C},o1o
+ensonic,{C,C++,Java},jyasskin,{Assembly,C},o1o
+ensonic,{C,C++,Java},wtay,{Assembly,C},o1o
+gra_moore,{Java},joschmidt,{PHP},o1o
+ensonic,{C,C++,Java},vishnu,{Assembly,C},o1o
+ensonic,{C,C++,Java},jpritikin,{Assembly,C},o1o
+cael,{Assembly,C},ensonic,{C,C++,Java},o1o
+company,{Assembly,C},ensonic,{C,C++,Java},o1o
+kunarief,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+paullucas,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ndox,{Java},ofjosne,{Java},o1o
+haakonfs,{Java},ndox,{Java},o1o
+ndox,{Java},sherbert69,{Java},o1o
+grove,{Java},joschmidt,{PHP},o1o
+felipeal,{Java},paranoid12,{Java},o1o
+uramisten,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ensonic,{C,C++,Java},yippi,{Assembly,C},o1o
+ensonic,{C,C++,Java},zak147,{Assembly,C},o1o
+parkerb,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ensonic,{C,C++,Java},nodatadj,{Assembly,C},o1o
+ensonic,{C,C++,Java},mmeeks,{Assembly,C},o1o
+ensonic,{C,C++,Java},murrayc,{C++,Assembly,C},o1o
+joschmidt,{PHP},lheuer,{Java},o1o
+jacksonpd,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+joschmidt,{PHP},larsga,{Python,Java},o1o
+dobey,{Assembly,C},ensonic,{C,C++,Java},o1o
+joschmidt,{PHP},lischke2,{Java},o1o
+francois_ld,{Java},ndox,{Java},o1o
+qinhui99,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ndox,{Java},rodinix,{Java},o1o
+ndox,{Java},romson,{Java},o1o
+afleischer,{Java},ndox,{Java},o1o
+ndox,{Java},rpelisse,{Java},o2o
+paranoid12,{Java},thusted,{C#,Java,APL,JavaScript,Python},o1o
+ensonic,{C,C++,Java},omegahacker,{Assembly,C},o1o
+ensonic,{C,C++,Java},ow3n,{Assembly,C},o1o
+jhyde,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ensonic,{C,C++,Java},r0garcia,{Assembly,C},o1o
+ensonic,{C,C++,Java},hadess,{Assembly,C},o1o
+ensonic,{C,C++,Java},rbultje,{Assembly,C},o1o
+remberson,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ensonic,{C,C++,Java},jesimon,{Assembly,C},o1o
+dilinger,{Assembly,C},ensonic,{C,C++,Java},o1o
+felipeal,{Java},vmassol,{Java},o1o
+danielbakkelund,{Java},ndox,{Java},o1o
+dolphy,{Assembly,C},ensonic,{C,C++,Java},o1o
+hbaier,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+hhaas,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+joschmidt,{PHP},kal_ahmed,{Java},o1o
+ensonic,{C,C++,Java},richardb,{Assembly,C},o1o
+sgwood,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ensonic,{C,C++,Java},sbaker3,{Assembly,C},o1o
+ensonic,{C,C++,Java},sackrtp,{Assembly,C},o1o
+willgorman,{Java,Ruby,Unix Shell},zapodot,{Java},o1o
+ebuchner,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+ajmitch,{JavaScript,PHP,Assembly,C},ensonic,{C,C++,Java},o1o
+barozzi,{Java},willgorman,{Java,Ruby,Unix Shell},o1o
+dlehn,{Assembly,C},ensonic,{C,C++,Java},o1o
+akafred,{Java},ndox,{Java},o1o
+geisor,{Java},ndox,{Java},o1o
+colinwalters,{Assembly,C},ensonic,{C,C++,Java},o1o
+paranoid12,{Java},vmassol,{Java},o1o
+felipeal,{Java},thusted,{C#,Java,APL,JavaScript,Python},o1o
+ndox,{Java},stenis999,{Java},o1o
+kristofferkvam,{Java},ndox,{Java},o1o
+ndox,{Java},tobiast,{Java},o1o
+ndox,{Java},thoraage,{Java},o1o
+robinbagot,{Java},willgorman,{Java,Ruby,Unix Shell},o1o

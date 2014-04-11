@@ -1,0 +1,185 @@
+hjelmn,{C},reflectivist,{C},o1o
+fredhuffman,{Delphi/Kylix,Object Pascal},om-bill,{Delphi/Kylix,Object Pascal},o2o
+clsk,{C++},harishankar,{},o1o
+til77,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+benalex,{Java,AspectJ},springboy,{Java,C#},o1o
+fredhuffman,{Delphi/Kylix,Object Pascal},pbreneman,{Delphi/Kylix},o2o
+fredhuffman,{Delphi/Kylix,Object Pascal},pblarsen,{Delphi/Kylix,Object Pascal},o2o
+alqualos,{C++},zbenjamin,{C},o1o
+jeje,{Java},sunfmin,{Java},o1o
+benalex,{Java,AspectJ},tjuerge,{Java},o1o
+andreasthiel,{Java},jonathonmg,{Java},o1o
+afe_coda,{C++},zbenjamin,{C},o1o
+kmorwood,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+autowitch,{Delphi/Kylix,Object Pascal},kmorwood,{Delphi/Kylix,Object Pascal},o2o
+chomse,{Delphi/Kylix,Object Pascal},om-bill,{Delphi/Kylix,Object Pascal},o2o
+pblarsen,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+donhill,{Delphi/Kylix,Object Pascal},pbreneman,{Delphi/Kylix},o2o
+bghose,{C,Perl,PHP,PL/SQL,JavaScript},matth_rd,{Python},o1o
+benoram,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+autowitch,{Delphi/Kylix,Object Pascal},chaoticpup,{Delphi/Kylix,Object Pascal},o2o
+autowitch,{Delphi/Kylix,Object Pascal},chomse,{Delphi/Kylix,Object Pascal},o2o
+donhill,{Delphi/Kylix,Object Pascal},philippejbruno,{Delphi/Kylix},o2o
+benalex,{Java,AspectJ},slenderslacks,{Java},o1o
+chomse,{Delphi/Kylix,Object Pascal},donhill,{Delphi/Kylix,Object Pascal},o2o
+chaoticpup,{Delphi/Kylix,Object Pascal},om-bill,{Delphi/Kylix,Object Pascal},o2o
+bghose,{C,Perl,PHP,PL/SQL,JavaScript},celestialryan,{Python},o1o
+robertjlove,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+guilhermebf,{C++},sbvb,{C++},o2o
+pbreneman,{Delphi/Kylix},philippejbruno,{Delphi/Kylix},o2o
+bghose,{C,Perl,PHP,PL/SQL,JavaScript},thf_dev,{Python},o1o
+pblarsen,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+aseovic,{Java,C#},benalex,{Java,AspectJ},o1o
+fredhuffman,{Delphi/Kylix,Object Pascal},philippejbruno,{Delphi/Kylix},o2o
+chaoticpup,{Delphi/Kylix,Object Pascal},donhill,{Delphi/Kylix,Object Pascal},o2o
+donhill,{Delphi/Kylix,Object Pascal},fredhuffman,{Delphi/Kylix,Object Pascal},o2o
+andreasthiel,{Java},cbiegay,{Java},o1o
+andreasthiel,{Java},carrja99,{Java},o1o
+kmorwood,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+benalex,{Java,AspectJ},davison,{Java},o1o
+eperez,{C},shackelford,{Java},o1o
+benoram,{Delphi/Kylix,Object Pascal},fredhuffman,{Delphi/Kylix,Object Pascal},o2o
+autowitch,{Delphi/Kylix,Object Pascal},surehand,{Object Pascal,Delphi/Kylix},o2o
+benalex,{Java,AspectJ},dkopylenko,{Java},o1o
+benalex,{Java,AspectJ},devijvers,{Java},o1o
+hjelmn,{C},sophiali,{C},o1o
+andreasthiel,{Java},slagyr,{Java},o1o
+chaoticpup,{Delphi/Kylix,Object Pascal},pbreneman,{Delphi/Kylix},o2o
+chaoticpup,{Delphi/Kylix,Object Pascal},pblarsen,{Delphi/Kylix,Object Pascal},o2o
+chaoticpup,{Delphi/Kylix,Object Pascal},philippejbruno,{Delphi/Kylix},o2o
+clsk,{C++},j_k9,{},o1o
+bghose,{C,Perl,PHP,PL/SQL,JavaScript},warrenking,{Python},o1o
+pbreneman,{Delphi/Kylix},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+bghose,{C,Perl,PHP,PL/SQL,JavaScript},ms_,{Python},o1o
+benoram,{Delphi/Kylix,Object Pascal},philippejbruno,{Delphi/Kylix},o2o
+chomse,{Delphi/Kylix,Object Pascal},kmorwood,{Delphi/Kylix,Object Pascal},o2o
+benoram,{Delphi/Kylix,Object Pascal},pbreneman,{Delphi/Kylix},o2o
+benoram,{Delphi/Kylix,Object Pascal},pblarsen,{Delphi/Kylix,Object Pascal},o2o
+andreasthiel,{Java},rskoss,{Java},o1o
+andreasthiel,{Java},robertmartin,{Java},o1o
+bghose,{C,Perl,PHP,PL/SQL,JavaScript},devendra_l,{Python},o1o
+benoram,{Delphi/Kylix,Object Pascal},om-bill,{Delphi/Kylix,Object Pascal},o2o
+dark_angel,{Java},eperez,{C},o1o
+mimil,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+chaoticpup,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+jeje,{Java},leoquijano,{Java},o1o
+chaoticpup,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+jeje,{Java},zombi,{Java},o1o
+benoram,{Delphi/Kylix,Object Pascal},donhill,{Delphi/Kylix,Object Pascal},o2o
+chaoticpup,{Delphi/Kylix,Object Pascal},fredhuffman,{Delphi/Kylix,Object Pascal},o2o
+chomse,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+benalex,{Java,AspectJ},dsyer,{Java},o1o
+andreasthiel,{Java},jbrains,{Java},o1o
+taqua,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+gabrielha,{Java},jeje,{Java},o1o
+jeje,{Java},phraktle,{Java},o1o
+markpetryk,{C++},zbenjamin,{C},o1o
+m0nty_,{PHP},malanciault,{PHP},o2o
+eperez,{C},rkosta,{Java},o1o
+autowitch,{Delphi/Kylix,Object Pascal},benoram,{Delphi/Kylix,Object Pascal},o2o
+benalex,{Java,AspectJ},nebhale,{Java},o1o
+benalex,{Java,AspectJ},ohutchison,{Java},o2o
+donhill,{Delphi/Kylix,Object Pascal},kmorwood,{Delphi/Kylix,Object Pascal},o2o
+andypiper,{Java},benalex,{Java,AspectJ},o1o
+om-bill,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+andreasthiel,{Java},ppagel,{Java},o1o
+lholmgren,{Object Pascal,Delphi/Kylix},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+benalex,{Java,AspectJ},luke_t,{Java},o1o
+mungady,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+autowitch,{Delphi/Kylix,Object Pascal},fredhuffman,{Delphi/Kylix,Object Pascal},o2o
+beanie42,{Java},benalex,{Java,AspectJ},o1o
+benalex,{Java,AspectJ},klr8,{Java},o1o
+jaosch,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+robertjlove,{Delphi/Kylix,Object Pascal},surehand,{Object Pascal,Delphi/Kylix},o2o
+fritsv,{C},hjelmn,{C},o1o
+benalex,{Java,AspectJ},kktec,{Java},o1o
+andreasthiel,{Java},nashjain,{Java},o1o
+benalex,{Java,AspectJ},kdonald,{Java},o2o
+benalex,{Java,AspectJ},bramsmeets,{Java},o1o
+davidledbury2,{PHP},malanciault,{PHP},o2o
+davidledbury2,{PHP},m0nty_,{PHP},o2o
+autowitch,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+autowitch,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+benalex,{Java,AspectJ},johnsonr,{Java,C#},o1o
+hjelmn,{C},xiaoxin,{C},o1o
+chomse,{Delphi/Kylix,Object Pascal},surehand,{Object Pascal,Delphi/Kylix},o2o
+benalex,{Java,AspectJ},jstrachan,{Java,C#},o1o
+benalex,{Java,AspectJ},costin_leau,{Java},o1o
+fredhuffman,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+benalex,{Java,AspectJ},colins,{Java},o1o
+andreasthiel,{Java},firepoet,{Java,PL/SQL,JSP},o1o
+benalex,{Java,AspectJ},mark-fisher,{Java},o1o
+fredhuffman,{Delphi/Kylix,Object Pascal},kmorwood,{Delphi/Kylix,Object Pascal},o2o
+surehand,{Object Pascal,Delphi/Kylix},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+chaoticpup,{Delphi/Kylix,Object Pascal},surehand,{Object Pascal,Delphi/Kylix},o2o
+anshumanpurohit,{Java},eperez,{C},o1o
+mcourtot,{Java,JSP},perkeo,{Java,JavaScript,JSP},o1o
+jeje,{Java},jkuhnert,{Java},o1o
+darkeye,{Java},jeje,{Java},o1o
+xparanoidj,{C++},zbenjamin,{C},o1o
+donhill,{Delphi/Kylix,Object Pascal},surehand,{Object Pascal,Delphi/Kylix},o2o
+dlutter,{Java},eperez,{C},o1o
+benalex,{Java,AspectJ},mpetrashev,{Java},o1o
+benoram,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+om-bill,{Delphi/Kylix,Object Pascal},pblarsen,{Delphi/Kylix,Object Pascal},o2o
+benalex,{Java,AspectJ},markpollack,{Java,C#},o1o
+mdamour1976,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+benoram,{Delphi/Kylix,Object Pascal},chomse,{Delphi/Kylix,Object Pascal},o2o
+benalex,{Java,AspectJ},marthursson,{Java},o1o
+magotari,{C++},zbenjamin,{C},o1o
+om-bill,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+benoram,{Delphi/Kylix,Object Pascal},chaoticpup,{Delphi/Kylix,Object Pascal},o2o
+andrewbalan,{C#},egoricev,{C#},o2o
+donhill,{Delphi/Kylix,Object Pascal},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+dwwaddell,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+philippejbruno,{Delphi/Kylix},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+hjelmn,{C},milewis1,{C},o1o
+adrian-colyer,{Java},benalex,{Java,AspectJ},o1o
+fredhuffman,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+autowitch,{Delphi/Kylix,Object Pascal},donhill,{Delphi/Kylix,Object Pascal},o2o
+om-bill,{Delphi/Kylix,Object Pascal},surehand,{Object Pascal,Delphi/Kylix},o2o
+lenov,{Java,JavaScript,JSP},perkeo,{Java,JavaScript,JSP},o2o
+benalex,{Java,AspectJ},robharrop,{Java,C#},o1o
+benalex,{Java,AspectJ},johnalewis,{Java},o1o
+benoram,{Delphi/Kylix,Object Pascal},surehand,{Object Pascal,Delphi/Kylix},o2o
+benalex,{Java,AspectJ},jhoeller,{Java},o1o
+benalex,{Java,AspectJ},ramnivas,{Java},o1o
+benalex,{Java,AspectJ},jconstantine,{Java},o1o
+benalex,{Java,AspectJ},janm399,{Java},o1o
+autowitch,{Delphi/Kylix,Object Pascal},philippejbruno,{Delphi/Kylix},o2o
+kmorwood,{Delphi/Kylix,Object Pascal},philippejbruno,{Delphi/Kylix},o2o
+ocke,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+benedikta,{Java},eperez,{C},o1o
+autowitch,{Delphi/Kylix,Object Pascal},pbreneman,{Delphi/Kylix},o2o
+jpnurmi,{C++},zbenjamin,{C},o1o
+kmorwood,{Delphi/Kylix,Object Pascal},pbreneman,{Delphi/Kylix},o2o
+autowitch,{Delphi/Kylix,Object Pascal},pblarsen,{Delphi/Kylix,Object Pascal},o2o
+aarendsen,{Java},benalex,{Java,AspectJ},o1o
+kmorwood,{Delphi/Kylix,Object Pascal},om-bill,{Delphi/Kylix,Object Pascal},o2o
+autowitch,{Delphi/Kylix,Object Pascal},om-bill,{Delphi/Kylix,Object Pascal},o2o
+chaoticpup,{Delphi/Kylix,Object Pascal},chomse,{Delphi/Kylix,Object Pascal},o2o
+lholmgren,{Object Pascal,Delphi/Kylix},tpsfadmin,{Delphi/Kylix,Object Pascal},o2o
+pbreneman,{Delphi/Kylix},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+chomse,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+pbzdyl,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+benalex,{Java,AspectJ},wgthom,{Java},o1o
+benoram,{Delphi/Kylix,Object Pascal},kmorwood,{Delphi/Kylix,Object Pascal},o2o
+bnilsen,{C++},zbenjamin,{C},o1o
+chaoticpup,{Delphi/Kylix,Object Pascal},kmorwood,{Delphi/Kylix,Object Pascal},o2o
+anagha_m,{Python},bghose,{C,Perl,PHP,PL/SQL,JavaScript},o1o
+ideasculptor,{Java},jeje,{Java},o1o
+andreasthiel,{Java},dchelimsky,{Java},o1o
+chomse,{Delphi/Kylix,Object Pascal},pblarsen,{Delphi/Kylix,Object Pascal},o2o
+chomse,{Delphi/Kylix,Object Pascal},pbreneman,{Delphi/Kylix},o2o
+benalex,{Java,AspectJ},ulsa,{Java},o1o
+gmoran-pentaho,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+chomse,{Delphi/Kylix,Object Pascal},philippejbruno,{Delphi/Kylix},o2o
+benalex,{Java,AspectJ},trisberg,{Java},o1o
+philippejbruno,{Delphi/Kylix},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+donhill,{Delphi/Kylix,Object Pascal},robertjlove,{Delphi/Kylix,Object Pascal},o2o
+chomse,{Delphi/Kylix,Object Pascal},fredhuffman,{Delphi/Kylix,Object Pascal},o2o
+mtennes,{Java},willgorman,{Unix Shell,Java,Ruby},o1o
+pblarsen,{Delphi/Kylix,Object Pascal},surehand,{Object Pascal,Delphi/Kylix},o2o
+benalex,{Java,AspectJ},poutsma,{Java},o1o
+benalex,{Java,AspectJ},portiatung,{Java},o1o
+andyhot,{Java},jeje,{Java},o1o

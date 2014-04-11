@@ -1,0 +1,36 @@
+seel20,{},tara-,{Python},o1o
+jcansdale,{C#,C++,Visual Basic .NET},psantosl,{},o1o
+pitt2,{Python},seel20,{},o1o
+charliepoole,{C#,C++,Visual Basic .NET},psantosl,{},o1o
+seel20,{},thf_dev,{Python},o1o
+psantosl,{},shmarya,{C#,C++,Visual Basic .NET},o1o
+michalsc,{},verhaegs,{},o1o
+tfrieden,{},verhaegs,{},o2o
+hfrieden,{},verhaegs,{},o2o
+ms_,{Python},seel20,{},o1o
+seel20,{},warrenking,{Python},o1o
+anagha_m,{Python},seel20,{},o1o
+damato,{C},verhaegs,{},o1o
+burlog,{C++,PHP,Python},v_pecinka,{C++,PHP,Python},o2o
+bghose,{Python,JavaScript,Perl,PHP,PL/SQL},seel20,{},o1o
+verhaegs,{},yabba,{C},o1o
+fta,{},verhaegs,{},o1o
+tactica,{C},verhaegs,{},o1o
+krzysztof_k,{C},lciesnik,{C},o2o
+gilfanon,{},verhaegs,{},o1o
+nicomen,{},verhaegs,{},o2o
+lciesnik,{C},szalik,{C},o2o
+psantosl,{},trayburn,{C#,C++,Visual Basic .NET},o1o
+theantony,{},verhaegs,{},o1o
+matth_rd,{Python},seel20,{},o1o
+celestialryan,{Python},seel20,{},o1o
+marcus_c,{},verhaegs,{},o1o
+serg_main,{Java},smissan,{Java},o2o
+gnikl,{C},verhaegs,{},o1o
+devendra_l,{Python},seel20,{},o1o
+jlei,{Python},seel20,{},o1o
+obarthel,{},verhaegs,{},o1o
+offa,{},verhaegs,{},o1o
+coryfoy,{C#,C++,Visual Basic .NET},psantosl,{},o1o
+lukemaxon,{C#,C++,Visual Basic .NET},psantosl,{},o1o
+garyfx,{C#,C++,Visual Basic .NET},psantosl,{},o1o

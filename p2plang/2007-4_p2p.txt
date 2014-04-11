@@ -1,0 +1,98 @@
+carrja99,{PHP},ppagel,{Java},o1o
+ajevic,{C#},jstrachan,{Java},o1o
+agriggio,{C,Python},elias,{C,C++},o1o
+dumptruck52,{C,C++,Perl,Java},wookie,{},o1o
+johnsonr,{Java,C#},jstrachan,{Java},o2o
+anthonybaxter,{Python},sanxiyn,{Python},o1o
+min_xu,{C,C++,Perl,Java},wookie,{},o1o
+matsys,{C,C++,Python,Java,C#,Ruby,D},tassiedevil,{C,C++,Python,Java,C#,Ruby,D},o2o
+uschuster,{Object Pascal,Delphi/Kylix,C++},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+carrja99,{PHP},firepoet,{Java,PL/SQL,JSP},o1o
+anthonybaxter,{Python},seel20,{Python},o1o
+mscottn,{C},troyer,{C++},o1o
+outchy,{Object Pascal,Delphi/Kylix,C++},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+bullpen,{C,C++,Perl,Java},wookie,{},o2o
+charliepoole,{C++,C#,Visual Basic .NET},jeremydmiller,{C#},o1o
+jstrachan,{Java},oakinger,{C#},o1o
+mnaglik,{Java},zdennis,{Java,Ruby},o1o
+snaga,{C,C++,Perl,Java},wookie,{},o1o
+grenzi_r,{Object Pascal,Delphi/Kylix,C++},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+anthonybaxter,{Python},hex-dump,{Python},o1o
+gandy,{C},troyer,{C++},o1o
+feiguin,{C},troyer,{C++},o1o
+carrja99,{PHP},dchelimsky,{Java},o1o
+ikesen,{Python},usta,{},o1o
+scottiebo,{C,C++,Perl,Java},wookie,{},o1o
+davygrvy,{C,Tcl},patthoyts,{C,Tcl,Perl},o2o
+elias,{C,C++},gradha,{C,C++,Python},o2o
+gcaprio,{C#},jstrachan,{Java},o1o
+jnmbk,{Python},usta,{},o1o
+choyrim,{C#},jstrachan,{Java},o1o
+airwaves,{C,C++,Perl,Java},wookie,{},o1o
+mirkostocker,{Java,Ruby},mnaglik,{Java},o1o
+carrja99,{PHP},nashjain,{Java},o1o
+jstrachan,{Java},mdumic,{C#},o1o
+taber_loveless,{C,C++,Perl,Java},wookie,{},o1o
+morrac,{Object Pascal,Delphi/Kylix},wpostma,{Delphi/Kylix,C++,Object Pascal},o1o
+jfudickar,{Object Pascal,Delphi/Kylix,C++},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+rilson,{C,C++,Perl,Java},wookie,{},o1o
+ahuser,{Object Pascal,Delphi/Kylix,C++,C#},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+jstrachan,{Java},markpollack,{Java,C#},o2o
+rgipps,{C},troyer,{C++},o1o
+dcorbin,{Java,Ruby},mnaglik,{Java},o1o
+aseovic,{Java,C#},jstrachan,{Java},o2o
+carrja99,{PHP},cbiegay,{Java},o1o
+akx,{C,Python},elias,{C,C++},o1o
+andlil4711,{C#},charliepoole,{C++,C#,Visual Basic .NET},o1o
+twm,{C++,Object Pascal,Delphi/Kylix},wpostma,{Delphi/Kylix,C++,Object Pascal},o1o
+klamath,{C,C++,Perl,Java},wookie,{},o1o
+mthoma,{Object Pascal,Delphi/Kylix,C++},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+charliepoole,{C++,C#,Visual Basic .NET},nigelbeach,{C#},o1o
+awilliams,{Java,Ruby},mnaglik,{Java},o1o
+elahn,{Object Pascal,Delphi/Kylix,C++},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+jstrachan,{Java},yazybones,{C#},o1o
+erenturkay,{Python},usta,{},o1o
+ensonic,{C,C++,Java},troyer,{C++},o1o
+jstrachan,{Java},springboy,{Java,C#},o2o
+rayspostbox3,{Delphi/Kylix,Object Pascal,C++},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+rwalden,{C},troyer,{C++},o1o
+anthonybaxter,{Python},mdx2,{Python},o1o
+maryedie,{C,C++,Perl,Java},wookie,{},o1o
+ekovanci,{Python},usta,{},o1o
+davecramer,{Java,C,C++,Perl},wookie,{},o1o
+adamvan,{C#},charliepoole,{C++,C#,Visual Basic .NET},o1o
+jbuckman,{C,Tcl},patthoyts,{C,Tcl,Perl},o1o
+jasonpmorrison,{Java,Ruby},mnaglik,{Java},o1o
+thackeray_s,{C,C++,Perl,Java},wookie,{},o1o
+kornos,{C},troyer,{C++},o1o
+rikbarker,{C,C++,Pascal,Object Pascal,Delphi/Kylix},wpostma,{Delphi/Kylix,C++,Object Pascal},o1o
+carrja99,{PHP},slagyr,{Java},o1o
+jstrachan,{Java},lsusatyo,{C#,Java},o1o
+charliepoole,{C++,C#,Visual Basic .NET},deboeck,{C#},o1o
+bbaia,{C#},jstrachan,{Java},o1o
+rrossmair,{Object Pascal,Delphi/Kylix},wpostma,{Delphi/Kylix,C++,Object Pascal},o1o
+elias,{C,C++},jmtapio,{C,Python},o1o
+markwkm,{C,C++,Perl,Java},wookie,{},o1o
+kohni,{C},troyer,{C++},o1o
+mbarchfe,{Java,Ruby},mnaglik,{Java},o1o
+marquardt,{Object Pascal,Delphi/Kylix,C++,C},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+carrja99,{PHP},jbrains,{Java},o1o
+edgingtonj,{C,C++,Perl,Java},wookie,{},o1o
+jharris,{C,C++,Perl,Java},wookie,{},o1o
+guster_q,{C,C++,Perl,Java},wookie,{},o1o
+chrisdrop,{C#},jstrachan,{Java},o1o
+swu23,{C,C++,Perl,Java},wookie,{},o1o
+obones,{C++,Object Pascal,Delphi/Kylix},wpostma,{Delphi/Kylix,C++,Object Pascal},o2o
+jztpcw,{C,C++,Perl,Java},wookie,{},o1o
+idlsoft,{C#},jstrachan,{Java},o1o
+jstrachan,{Java},robharrop,{Java,C#},o2o
+charliepoole,{C++,C#,Visual Basic .NET},lukemaxon,{C#},o1o
+jberkus,{C,C++,Perl,Java},wookie,{},o1o
+cawilliams,{Java,Ruby},mnaglik,{Java},o1o
+dade2004,{Object Pascal,Delphi/Kylix},wpostma,{Delphi/Kylix,C++,Object Pascal},o1o
+fspinazzi,{Java,C#},jstrachan,{Java},o1o
+dov-g,{C,Perl,C++},troyer,{C++},o1o
+carrja99,{PHP},robertmartin,{Java},o1o
+jasongerard,{C#},jstrachan,{Java},o1o
+carrja99,{PHP},rskoss,{Java},o1o
+rtaylor02,{C,C++,Perl,Java},wookie,{},o1o
